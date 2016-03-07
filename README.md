@@ -5,6 +5,7 @@ This project gives example to create scalable APIs with pub sub. Here I have use
 - python wsgi_server
 
 ### Run worker:
+- cd worker
 - python do_sum.py
 
 ### Prerequisites:
