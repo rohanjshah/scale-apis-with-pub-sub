@@ -12,6 +12,7 @@ This project gives example to create scalable APIs with pub sub. Here I have use
 - Install redis server on local. It can be changed fron config.py
 - Install python requirements from requirements.txt
 
+e.g.
 
 1.  URI: /v1/get-sum  #Get Final sum by distributed execution in back
     - method: POST,
