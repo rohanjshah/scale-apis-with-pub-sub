@@ -1,0 +1,4 @@
+redis==2.7.2
+bottle==0.12.8
+ujson==1.33
+gevent==0.13.8
